@@ -1,31 +1,5 @@
-"""
-MetalPrinterAI
-Main Entry
-"""
+from core.pipeline import WAAMPipeline
 
-from logger.logger import logger
+pipeline = WAAMPipeline()
 
-def main():
-
-    logger.info("=================================")
-
-    logger.info("MetalPrinterAI Started")
-
-    logger.info("=================================")
-
-    print()
-
-    print("===================================")
-
-    print(" MetalPrinterAI ")
-
-    print(" AI Acoustic Monitoring ")
-
-    print("===================================")
-
-    print()
-
-    print("Program Started.")
-
-if __name__ == "__main__":
-    main()
+pipeline.run()
