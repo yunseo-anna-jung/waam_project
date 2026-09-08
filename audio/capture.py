@@ -7,10 +7,10 @@ Realtime Audio Capture Engine
 import queue
 import sounddevice as sd # type: ignore
 
-from config import SAMPLE_RATE
-from config import CHANNELS
-from config import BLOCK_SIZE
-from config import DTYPE
+from config.settings import SAMPLE_RATE
+from config.settings import CHANNELS
+from config.settings import BLOCK_SIZE
+from config.settings import DTYPE
 
 
 class AudioCapture:

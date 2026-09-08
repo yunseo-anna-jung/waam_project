@@ -2,7 +2,7 @@
 audio/buffer.py
 
 Realtime Ring Buffer
-Author : WAAM Project
+Author : Yunseo Anna Jung
 
 최근 일정 시간의 오디오 데이터를 유지하는 버퍼
 """

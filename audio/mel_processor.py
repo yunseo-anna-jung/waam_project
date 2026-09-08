@@ -2,7 +2,7 @@
 audio/mel_processor.py
 
 Realtime Mel Spectrogram Processor
-Author : WAAM Project
+Author : Yunseo Anna Jung
 """
 
 from __future__ import annotations
