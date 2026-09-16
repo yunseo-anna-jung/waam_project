@@ -1,6 +1,7 @@
 # waam_project
 
 AI-based Acoustic Anomaly Detection for Metal Additive Manufacturing
+contest entry
 
 ## Environment
 
